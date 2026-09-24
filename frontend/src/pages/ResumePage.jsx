@@ -32,7 +32,7 @@ const achievements = [
   {
     title: 'Adobe University Hackathon',
     org: 'Participation Certificate, organized by Adobe (via Unstop) — Aug 2026',
-    link: '/adobe-hackathon-certificate.pdf',
+    link: '/Adobe_Hackathon_certificate.pdf',
   },
   {
     title: 'Full Stack Web Development Certification',
