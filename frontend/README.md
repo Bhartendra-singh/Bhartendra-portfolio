@@ -1,5 +1,7 @@
 # Bhartendra Singh | Portfolio
 
+![Portfolio Screenshot](./docs/screenshot.png)
+
 Personal portfolio website showcasing my projects, skills, and experience as a MERN stack developer.
 
 **Live:** [bhartendra-portfolio.vercel.app](https://bhartendra-portfolio.vercel.app)
