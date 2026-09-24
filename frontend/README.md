@@ -1,16 +1,40 @@
-# React + Vite
+# Bhartendra Singh | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website showcasing my projects, skills, and experience as a MERN stack developer.
 
-Currently, two official plugins are available:
+**Live:** [bhartendra-portfolio.vercel.app](https://bhartendra-portfolio.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
 
-## React Compiler
+- React (Vite)
+- Tailwind CSS v4
+- React Router
+- react-icons
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Sidebar profile with quick links (GitHub, LeetCode, LinkedIn, Resume)
+- About, Resume, Projects, and Contact sections
+- Project case studies with problem statement, objective, solution, key features, and architecture highlights
+- Fully responsive, dark-themed UI
+- Frontend-only — no backend, no database
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Featured Projects
+
+- **[Stayora](https://stayora-mocha.vercel.app)** — Full-stack accommodation booking platform with guest, hotel-owner, and admin roles (React, Node.js, Express, MongoDB, Clerk, Razorpay, Cloudinary)
+- **Civic Issue Mapper** — MERN-stack platform for reporting and resolving civic issues with map-based tracking (React, Node.js, Express, MongoDB, Leaflet)
+
+## Run Locally
+
+```bash
+git clone https://github.com/Bhartendra-singh/Bhartendra-portfolio.git
+cd Bhartendra-portfolio/frontend
+npm install
+npm run dev
+```
+
+## Connect
+
+- GitHub: [github.com/Bhartendra-singh](https://github.com/Bhartendra-singh)
+- LinkedIn: [linkedin.com/in/bhartendra-singh-17764a282](https://linkedin.com/in/bhartendra-singh-17764a282/)
+- LeetCode: [leetcode.com/u/Bhartendra_singh](https://leetcode.com/u/Bhartendra_singh/)
