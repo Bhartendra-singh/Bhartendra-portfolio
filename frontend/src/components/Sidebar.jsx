@@ -14,7 +14,7 @@ const Sidebar = () => {
         <h2 className="font-semibold text-base mb-2 text-center">Bhartendra Singh</h2>
         <div className="text-center mb-6">
           <span className="inline-block text-xs bg-glass px-3 py-1 rounded-full">
-            MERN Stack Developer
+            Full Stack Developer
           </span>
         </div>
 
