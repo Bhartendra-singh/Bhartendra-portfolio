@@ -16,7 +16,7 @@ const education = [
 ];
 
 const skillGroups = [
-  { category: 'Languages', skills: ['Java', 'C++', 'C'] },
+  { category: 'Languages', skills: ['Java', 'C++', 'C', 'Python', 'SQL'] },
   { category: 'Web Technologies', skills: ['HTML', 'CSS', 'JavaScript', 'React.js', 'Redux Toolkit', 'Node.js', 'Express.js', 'REST APIs'] },
   { category: 'Databases', skills: ['MySQL', 'MongoDB'] },
   { category: 'Core CS & Concepts', skills: ['DSA', 'OOP', 'Operating Systems', 'System Design', 'Problem Solving', 'Agile Methodology'] },
@@ -39,11 +39,7 @@ const achievements = [
     org: 'Apna College',
     link: '/Full-Stack-Development-Certificate.pdf',
   },
-  {
-    title: 'DSA with Java Certification',
-    org: 'Apna College',
-    link: '',
-  },
+
 ];
 
 const ResumePage = () => {
