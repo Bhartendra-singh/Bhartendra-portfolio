@@ -43,7 +43,7 @@ const Sidebar = () => {
         <div className="p-3 rounded-lg bg-accent/5 border border-accent/20">
           <p className="text-[9px] uppercase tracking-wide text-accent mb-1.5 font-semibold">Currently exploring</p>
           <p className="text-xs text-text-secondary leading-relaxed">
-            Researching ML & LLMs to bring smarter, AI-powered detection into Civic Issue Mapper.
+            Exploring AI, ML and LLMs, with a focus on RAG and agentic AI systems.
           </p>
         </div>
       </div>
