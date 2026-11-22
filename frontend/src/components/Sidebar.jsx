@@ -58,7 +58,7 @@ const Sidebar = () => {
         <a href="https://www.linkedin.com/in/bhartendra-singh-17764a282/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2.5 px-4 py-2.5 rounded-lg bg-glass border border-glass-border text-xs text-text-secondary hover:border-accent hover:text-accent transition-colors">
           <FiLinkedin size={14} /> LinkedIn
         </a>
-        <a href="/BhartendraSingh_Resume.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2.5 px-4 py-2.5 rounded-lg bg-accent/10 border border-accent/40 text-accent text-xs font-medium hover:bg-accent hover:text-white transition-colors">
+        <a href="/Bhartendra_Singh_Resume.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2.5 px-4 py-2.5 rounded-lg bg-accent/10 border border-accent/40 text-accent text-xs font-medium hover:bg-accent hover:text-white transition-colors">
           <FiDownload size={14} /> Download Resume
         </a>
       </div>
